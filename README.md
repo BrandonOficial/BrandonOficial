@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
-<h4>Olá! Sou Brandon Ramos, um entusiasta da programação e desenvolvedor frontend com uma paixão ardente por criar experiências web incríveis. Com uma sólida formação em desenvolvimento de software, mergulhei de cabeça no universo da programação front-end, onde transformo linhas de código em interfaces intuitivas e envolventes.</h4>
+<h4>Olá! Sou Brandon Ramos web design e develop front-end</h4>
 <br></br>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
