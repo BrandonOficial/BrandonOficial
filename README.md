@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
-<h4 align-item: center;>Olá! Sou Brandon Ramos web design e develop front-end</h4>
+<h4                                                      >Olá! Sou Brandon Ramos web design e develop front-end                                                    </h4>
 <br></br>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
