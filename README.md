@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
-<h1    font-family: montserrat                                                 >Desenvolvedor Frontend apaixonado por criar experiências incríveis na web. Transformando designs em código e trazendo-os à vida. Acompanhe minha jornada enquanto mergulho nas últimas tendências e tecnologias do mundo frontend.                                              </h1>
+<h1    font-family: montserrat alignitext: center;>Desenvolvedor Frontend apaixonado por criar experiências incríveis na web. Transformando designs em código e trazendo-os à vida. Acompanhe minha jornada enquanto mergulho nas últimas tendências e tecnologias do mundo frontend.                                              </h1>
 <br></br>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
