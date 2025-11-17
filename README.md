@@ -1,7 +1,7 @@
 <!-- Banner animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header&text=Brandon%20Ramos%20Freire&fontSize=30&fontColor=000&animation=twinkling"/>
 
-## 👨‍💻 About Me
+## Sobre
 Sou **Front-End Developer Júnior** apaixonado por criar experiências digitais modernas e acessíveis.  
 Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Front-End Developer / Estágio**.  
 
@@ -11,7 +11,7 @@ Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Fron
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrandonOficial&show_icons=true&theme=radical&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=fff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonOficial&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD700&text_color=fff"/>
@@ -19,14 +19,14 @@ Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Fron
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 - [**Nuuvik**](https://github.com/BrandonOficial/Nuuvik) – SaaS Page Builder com agendamento, checkout e chatbot.  
 - [**Nom Blog Page**](https://github.com/BrandonOficial/NomBlogNewsletter) – Blog em React + Tailwind, arquitetura clean code.  
 - 🌐 [Portfolio Online](https://portfoliobrp.netlify.app)  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700)
@@ -44,7 +44,7 @@ Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Fron
 
 ---
 
-## 🌍 Connect with Me
+## Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/brandon-ramos-73ba27206/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
   <a href="mailto:brandonbr.ramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
