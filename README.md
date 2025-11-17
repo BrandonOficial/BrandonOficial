@@ -1,32 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
-<h1    font-family: montserrat alignitext: center;>Desenvolvedor Frontend apaixonado por criar experiências incríveis na web. Transformando designs em código e trazendo-os à vida. Acompanhe minha jornada enquanto mergulho nas últimas tendências e tecnologias do mundo frontend.                                              </h1>
-<br></br>
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrandonOficial&show_icons=true&theme=midnight-purple&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonOficial&layout=compact&langs_count=7&theme=midnight-purple&bg_color=0d1117"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+
+# 👋 Olá, eu sou Brandon Ramos Freire  
+
+🎯 **Desenvolvedor Front-End Júnior** apaixonado por criar experiências incríveis na web.  
+💻 Transformo ideias em código usando **React, Angular, TypeScript, HTML, CSS e Python**.  
+🚀 Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Front-End Developer / Estágio**.  
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrandonOficial&show_icons=true&theme=midnight-purple&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonOficial&layout=compact&langs_count=7&theme=midnight-purple&bg_color=0d1117"/>
 </div>
 
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrandonOficial&bg_color=0d1117&color=9e4c98&line=4B0082&point=9400D3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
+## 🚀 Projetos em Destaque
+- **[Nuuvik](https://github.com/BrandonOficial/Nuuvik)** – SaaS Page Builder com agendamento, checkout e chatbot.  
+- **[Nom Blog Page](https://github.com/BrandonOficial/NomBlogNewsletter)** – Blog em React + Tailwind, arquitetura clean code.  
+- **Portfolio Online:** [portfoliobrp.netlify.app](https://portfoliobrp.netlify.app)  
 
+---
 
-<div align="center"> 
-<a href="https:instagram.com/ramosbrandon_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:brandonbr.ramos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/brandon-freire-73ba27206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+## 🛠️ Tecnologias & Ferramentas
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)
 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)&nbsp; 
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=lightblue&labelColor=0D1117)&nbsp; 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
+## 🌍 Conecte-se comigo
+<div align="center">
+  <a href="https://www.linkedin.com/in/brandon-ramos-73ba27206/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:brandonbr.ramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/ramosbrandon_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
