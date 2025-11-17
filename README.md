@@ -9,15 +9,23 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="20" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/brandon-ramos-73ba27206/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ramosbrandon_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="20" alt="instagram logo"  />
+  </a>
+  <a href="+55 19 99774-5308" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="32" height="20" alt="whatsapp logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
-<p align="left">Sou desenvolvedor front-end em início de carreira, com experiência prática em React, Angular, TypeScript, HTML, CSS e Python. Atuei em projetos acadêmicos, pessoais e como trainee, desenvolvendo interfaces web, integrações de APIs e automações. Destaco a criação da plataforma SaaS Nuuvik e a automação de fluxos internos na MTCorp, que resultaram em economia significativa de tempo. Tenho forte interesse em inovação, UI/UX e acessibilidade, e busco contribuir em equipes ágeis que valorizem aprendizado contínuo e impacto real </p>
+<p align="left">Sou **Front-End Developer Júnior** apaixonado por criar experiências digitais modernas e acessíveis.  <br>Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Front-End Developer / Estágio**.</p>
 
 ###
 
@@ -72,14 +80,20 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:BrandonOficial?theme=original-new&padding=6&scale=1.7&align=center&pixelated=1&darkmode=0"  />
+  <img src="https://count.getloli.com/@:BrandonOficial?theme=original-new&padding=9&scale=2&align=center&pixelated=1&darkmode=0"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BrandonOficial&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrandonOficial&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonOficial&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonOficial&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/BrandonOficial/BrandonOficial/output/snake.svg" alt="Snake animation" />
 
