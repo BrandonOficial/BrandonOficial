@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Sou **Front-End Developer Júnior** apaixonado por criar experiências digitais modernas e acessíveis.  <br>Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Front-End Developer / Estágio**.</p>
+<p align="left">Sou desenvolvedor front-end em início de carreira, com experiência prática em React, Angular, TypeScript, HTML, CSS e Python. Atuei em projetos acadêmicos, pessoais e como trainee, desenvolvendo interfaces web, integrações de APIs e automações. Destaco a criação da plataforma SaaS Nuuvik e a automação de fluxos internos na MTCorp, que resultaram em economia significativa de tempo. Tenho forte interesse em inovação, UI/UX e acessibilidade, e busco contribuir em equipes ágeis que valorizem aprendizado contínuo e impacto real</p>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🚀 Tecnologias principais: React, Angular, TypeScript, HTML, CSS, Python  <br>- 🎯 Interesse em UI/UX, acessibilidade e inovação  <br>- 📚 Estudante de ADS na Universidade Anhembi Morumbi</p>
+<p align="left">- Tecnologias principais: React, Angular, TypeScript, HTML, CSS, Python  <br>- Interesse em UI/UX, acessibilidade e inovação  <br>-  Estudante de ADS na Universidade Anhembi Morumbi</p>
 
 ###
 
@@ -79,6 +79,12 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://count.getloli.com/@:BrandonOficial?theme=original-new&padding=9&scale=2&align=center&pixelated=1&darkmode=0"  />
 </div>
@@ -86,8 +92,37 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrandonOficial&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=true&order=1" height="450" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrandonOficial&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="450" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrandonOficial&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=true&order=1" height="400" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrandonOficial&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="250" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonOficial&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="450" alt="activity-graph graph"  />
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/BrandonOficial/BrandonOficial/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
