@@ -17,7 +17,8 @@
 
 ###
 
-<p align="left">Sou **Front-End Developer Júnior** apaixonado por criar experiências digitais modernas e acessíveis.  <br>Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Front-End Developer / Estágio**.</p>
+<p align="left">Sou **Front-End Developer Júnior** apaixonado por criar experiências digitais modernas e acessíveis.  
+Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Front-End Developer / Estágio**.  </p>
 
 ###
 
