@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header&text=Brandon%20Ramos%20Freire&fontSize=30&fontColor=000&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header&text=Brandon%20Ramos%20Freire&fontSize=30&fontColor=000&animation=snake"/>
 
 ## About Me
 Sou **Front-End Developer Júnior** apaixonado por criar experiências digitais modernas e acessíveis.  
