@@ -11,7 +11,7 @@ Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Fron
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrandonOficial&show_icons=true&theme=radical&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=fff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonOficial&layout=compact&theme=radical&bg_color=0d1117&title_color=FFD700&text_color=fff"/>
