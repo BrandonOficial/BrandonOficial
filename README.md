@@ -5,9 +5,9 @@
 Sou **Front-End Developer Júnior** apaixonado por criar experiências digitais modernas e acessíveis.  
 Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Front-End Developer / Estágio**.  
 
-- 🚀 Tecnologias principais: React, Angular, TypeScript, HTML, CSS, Python  
-- 🎯 Interesse em UI/UX, acessibilidade e inovação  
-- 📚 Estudante de ADS na Universidade Anhembi Morumbi  
+- Tecnologias principais: React, Angular, TypeScript, HTML, CSS, Python  
+- Interesse em UI/UX, acessibilidade e inovação  
+- Estudante de ADS na Universidade Anhembi Morumbi  
 
 ---
 
