@@ -91,9 +91,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrandonOficial&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="450" alt="activity-graph graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BrandonOficial/BrandonOficial/output/snake.svg" alt="Snake animation" />
-
