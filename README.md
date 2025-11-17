@@ -17,8 +17,7 @@
 
 ###
 
-<p align="left">Sou **Front-End Developer Júnior** apaixonado por criar experiências digitais modernas e acessíveis.  
-Atualmente desenvolvendo projetos próprios e buscando oportunidades como **Front-End Developer / Estágio**.  </p>
+<p align="left">Sou desenvolvedor front-end em início de carreira, com experiência prática em React, Angular, TypeScript, HTML, CSS e Python. Atuei em projetos acadêmicos, pessoais e como trainee, desenvolvendo interfaces web, integrações de APIs e automações. Destaco a criação da plataforma SaaS Nuuvik e a automação de fluxos internos na MTCorp, que resultaram em economia significativa de tempo. Tenho forte interesse em inovação, UI/UX e acessibilidade, e busco contribuir em equipes ágeis que valorizem aprendizado contínuo e impacto real </p>
 
 ###
 
