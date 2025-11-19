@@ -18,7 +18,7 @@
   <a href="+55 19 99774-5308" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+  <a href="[https://mail.google.com/mail/u/1/#inbox](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSMSqbKxcQcGVsDfvjVzSNXzzVRpFwnglfgKzQhDTXgzPVFskHKfDGgLqXTgsfnkJMgWmrXz)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
 </div>
